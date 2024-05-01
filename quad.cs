@@ -34,8 +34,8 @@ public class quad : MonoBehaviour
     }
     void myArray(){
         myintArray = {1,2,3,4,5};
-        for(int index = 0; index<myintArray.Length;i++){
-             Debug.Log(myintArray[i]);
+        for(int index = 0; index<myintArray.Length;index++){
+             Debug.Log(myintArray[index]);
 
         }
                    
